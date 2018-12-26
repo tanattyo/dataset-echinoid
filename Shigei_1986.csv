@@ -1,0 +1,158 @@
+order,目,sub-order,亜目,family,科,sub-family,亜科,属,genus,species,japanese_name,author
+Cidaroida,オウサマウニ目,-,-,Cidaridae,オウサマウニ科,Histocidarinae,コウテイウニ亜科,コウテイウニ属,Histocidaris,elegans ,コウテイウニ,新称
+Cidaroida,オウサマウニ目,-,-,Cidaridae,オウサマウニ科,Goniocidarinae,トゲザオウニ亜科,トゲザオウニ属,Goniocidaris,biserialis ,トゲザオウニ,-
+Cidaroida,オウサマウニ目,-,-,Cidaridae,オウサマウニ科,Goniocidarinae,トゲザオウニ亜科,トゲザオウニ属,Goniocidaris,mikado ,ミカドウニ,-
+Cidaroida,オウサマウニ目,-,-,Cidaridae,オウサマウニ科,Goniocidarinae,トゲザオウニ亜科,トゲザオウニ属,Goniocidaris,alba,-,和名未定
+Cidaroida,オウサマウニ目,-,-,Cidaridae,オウサマウニ科,Goniocidarinae,トゲザオウニ亜科,トゲザオウニ属,Goniocidaris,fimbriata,-,和名未定
+Cidaroida,オウサマウニ目,-,-,Cidaridae,オウサマウニ科,Goniocidarinae,トゲザオウニ亜科,トゲザオウニ属,Goniocidaris,sp.,-,-
+Cidaroida,オウサマウニ目,-,-,Cidaridae,オウサマウニ科,Goniocidarinae,トゲザオウニ亜科,ヒメイバラウニ属,Rhopalocidaris,gracilis ,ヒメイバラウニ,新称
+Cidaroida,オウサマウニ目,-,-,Cidaridae,オウサマウニ科,Stereocidarinae,ダイオウウニ亜科,ダイオウウニ属,Stereocidaris,grandis ,ダイオウウニ,新称
+Cidaroida,オウサマウニ目,-,-,Cidaridae,オウサマウニ科,Stereocidarinae,ダイオウウニ亜科,ダイオウウニ属,Stereocidaris,sceptriferoides,ヤマトオウサマウニ,新称
+Cidaroida,オウサマウニ目,-,-,Cidaridae,オウサマウニ科,Stereocidarinae,ダイオウウニ亜科,ダイオウウニ属,Stereocidaris,lanceolata,-,和名未定
+Cidaroida,オウサマウニ目,-,-,Cidaridae,オウサマウニ科,Stereocidarinae,ダイオウウニ亜科,ダイオウウニ属,Stereocidaris,indica,-,和名未定
+Cidaroida,オウサマウニ目,-,-,Cidaridae,オウサマウニ科,Stereocidarinae,ダイオウウニ亜科,ダイオウウニ属,Stereocidaris,japonica ,ボウズウニ,重井
+Cidaroida,オウサマウニ目,-,-,Cidaridae,オウサマウニ科,Stereocidarinae,ダイオウウニ亜科,-,Compsocidaris,pyrsacantha,-,和名未定
+Cidaroida,オウサマウニ目,-,-,Cidaridae,オウサマウニ科,Stylocidarinae,サテライトウニ亜科,リュウオウウニ属,Acanthocidaris,maculicollis ,リュウオウウニ,新称
+Cidaroida,オウサマウニ目,-,-,Cidaridae,オウサマウニ科,Stylocidarinae,サテライトウニ亜科,サテライトウニ属,Stylocidaris,reini ,サテライトウニ,新称
+Cidaroida,オウサマウニ目,-,-,Cidaridae,オウサマウニ科,Stylocidarinae,サテライトウニ亜科,サテライトウニ属,Stylocidaris,bracteata ,ニシキサテライトウニ,新称
+Cidaroida,オウサマウニ目,-,-,Cidaridae,オウサマウニ科,Stylocidarinae,サテライトウニ亜科,サテライトウニ属,Stylocidaris,ryukyuensis,カステラウニ,重井
+Cidaroida,オウサマウニ目,-,-,Cidaridae,オウサマウニ科,Stylocidarinae,サテライトウニ亜科,コビトオウサマウニ属,Chorocidaris,fusispina,コビトオウサマウニ,新称
+Cidaroida,オウサマウニ目,-,-,Cidaridae,オウサマウニ科,Stylocidarinae,サテライトウニ亜科,マツカサウニ属,Eucidaris,metularia ,マツカサウニ,-
+Cidaroida,オウサマウニ目,-,-,Cidaridae,オウサマウニ科,Stylocidarinae,サテライトウニ亜科,フシザオウニ属,Plococidaris,verticillata ,フシザオウニ,-
+Cidaroida,オウサマウニ目,-,-,Cidaridae,オウサマウニ科,Stylocidarinae,サテライトウニ亜科,ノコギリウニ属,Prionocidaris,baculosa ,ノコギリウニ,-
+Cidaroida,オウサマウニ目,-,-,Cidaridae,オウサマウニ科,Stylocidarinae,サテライトウニ亜科,ノコギリウニ属,Prionocidaris,australis,-,和名未定
+Cidaroida,オウサマウニ目,-,-,Cidaridae,オウサマウニ科,Rhabdocidarinae,名称未定,バクダンウニ属,Phyllacanthus,imperialis ,ミナミバクダンウニ,重井
+Cidaroida,オウサマウニ目,-,-,Cidaridae,オウサマウニ科,Rhabdocidarinae,名称未定,バクダンウニ属,Phyllacanthus,dubius,バクダンウニ,-
+Cidaroida,オウサマウニ目,-,-,Psychocidaridae,ドングリウニ科,-,-,ドングリウニ属,Psychocidaris,ohshimai,ドングリウニ,-
+Echinothurioida,フクロウニ目,-,-,Echinothuriidae,フクロウニ科,Kamptosominae,ヨミノフクロウニ亜科,ヨミノフクロウニ属,Kamptosoma,asterias ,ヨミノフクロウニ,新称
+Echinothurioida,フクロウニ目,-,-,Echinothuriidae,フクロウニ科,Phormosominae,ナマハゲフクロウニ亜科,ナマハゲフクロウニ属,Phormosoma,bursarium,ナマハゲフクロウニ,新称
+Echinothurioida,フクロウニ目,-,-,Echinothuriidae,フクロウニ科,Asthenosominae,イイジマフクロウニ亜科,エンマノフクロウニ属,Hygrosoma,hoplacantha ,エンマノフクロウニ,新称
+Echinothurioida,フクロウニ目,-,-,Echinothuriidae,フクロウニ科,Asthenosominae,イイジマフクロウニ亜科,-,Tromikosoma,tenue,-,和名未定
+Echinothurioida,フクロウニ目,-,-,Echinothuriidae,フクロウニ科,Asthenosominae,イイジマフクロウニ亜科,オバケフクロウニ属,Sperosoma,giganteum,-,和名未定
+Echinothurioida,フクロウニ目,-,-,Echinothuriidae,フクロウニ科,Asthenosominae,イイジマフクロウニ亜科,オバケフクロウニ属,Sperosoma,durum,オバケフクロウニ,-
+Echinothurioida,フクロウニ目,-,-,Echinothuriidae,フクロウニ科,Asthenosominae,イイジマフクロウニ亜科,アカフクロウニ属,Calveriosoma,gracile ,アカフクロウニ,重井
+Echinothurioida,フクロウニ目,-,-,Echinothuriidae,フクロウニ科,Asthenosominae,イイジマフクロウニ亜科,オーストンフクロウニ属,Araeosoma,owstoni,オーストンフクロウニ,重井
+Echinothurioida,フクロウニ目,-,-,Echinothuriidae,フクロウニ科,Asthenosominae,イイジマフクロウニ亜科,ヒメフクロウニ属,Hapalosoma,gemmiferum,ヒメフクロウニ,重井
+Echinothurioida,フクロウニ目,-,-,Echinothuriidae,フクロウニ科,Asthenosominae,イイジマフクロウニ亜科,イイジマフクロウニ属,Asthenosoma,ijimai,イイジマフクロウニ,-
+Diadematoida,ガンガゼ目,Aspidodiademina,クモガゼ亜目,Aspidodiadematidae,クモガゼ科,-,-,クモガゼ属,Aspidodiadema,tonsum,クモガゼ,新称
+Diadematoida,ガンガゼ目,Aspidodiademina,クモガゼ亜目,Aspidodiadematidae,クモガゼ科,-,-,クモガゼ属,Aspidodiadema,intermedium,ゴエモンガゼ,新称
+Diadematoida,ガンガゼ目,Diademina,ガンガゼ亜目,Diadematidae,ガンガゼ科,-,-,アカオニガゼ属,Astropyga,radiata,アカオニガゼ,-
+Diadematoida,ガンガゼ目,Diademina,ガンガゼ亜目,Diadematidae,ガンガゼ科,-,-,ヒラタガゼ属,Chaetodiadema,japonicum,ヒラタガゼ,新称
+Diadematoida,ガンガゼ目,Diademina,ガンガゼ亜目,Diadematidae,ガンガゼ科,-,-,ガンガゼ属,Diadema,setosum ,ガンガゼ,-
+Diadematoida,ガンガゼ目,Diademina,ガンガゼ亜目,Diadematidae,ガンガゼ科,-,-,ガンガゼ属,Diadema,savignyi ,アオスジガンガゼ,-
+Diadematoida,ガンガゼ目,Diademina,ガンガゼ亜目,Diadematidae,ガンガゼ科,-,-,ガンガゼモドキ属,Echinothrix,calamaris ,トックリガンガゼモドキ,-
+Diadematoida,ガンガゼ目,Diademina,ガンガゼ亜目,Diadematidae,ガンガゼ科,-,-,ガンガゼモドキ属,Echinothrix,diadema ,ガンガゼモドキ,-
+Diadematoida,ガンガゼ目,Diademina,ガンガゼ亜目,Diadematidae,ガンガゼ科,-,-,アスナロガンガゼ属,Centrostephanus,asteriscus,アスナロガンガゼ,重井
+Diadematoida,ガンガゼ目,Pedinina,オトメガゼ亜目,Pedinidae,オトメガゼ科,-,-,オトメガゼ属,Caenopedina,mirabilis ,オトメガゼ,重井
+Diadematoida,ガンガゼ目,Pedinina,オトメガゼ亜目,Pedinidae,オトメガゼ科,-,-,オトメガゼ属,Caenopedina,indica ,インドオトメガゼ,新称
+Arbacioida,アスナロウニ目,Saleniina,オトヒメウニ亜目,Saleniidae,オトヒメウニ科,-,-,ウラシマウニ属,Salenocidaris,hastigera ,ウラシマウニ,新称
+Arbacioida,アスナロウニ目,Saleniina,オトヒメウニ亜目,Saleniidae,オトヒメウニ科,-,-,ウラシマウニ属,Salenocidaris,pacifica ,ニセウラシマウニ,新称
+Arbacioida,アスナロウニ目,Saleniina,オトヒメウニ亜目,Saleniidae,オトヒメウニ科,-,-,オトヒメウニ属,Salenia,cincta,オトヒメウニ,新称
+Arbacioida,アスナロウニ目,Saleniina,オトヒメウニ亜目,Saleniidae,オトヒメウニ科,-,-,オトヒメウニ属,Salenia,unicolor,シロオトヒメウニ,新称
+Arbacioida,アスナロウニ目,Arbaciina,アスナロウニ亜目,Arbaciidae,アスナロウニ科,-,-,ベンテンウニ属,Coelopleurus,maculatus,ベンテンウニ,新称
+Arbacioida,アスナロウニ目,Arbaciina,アスナロウニ亜目,Arbaciidae,アスナロウニ科,-,-,ベンテンウニ属,Coelopleurus,undulatus,ヤマトベンテンウニ,新称
+Arbacioida,アスナロウニ目,Arbaciina,アスナロウニ亜目,Arbaciidae,アスナロウニ科,-,-,-,Sexpyga,soyoae,-,和名未定
+Arbacioida,アスナロウニ目,Phymosomina,ホンウニモドキ亜目,Phymosomatidae,ホンウニモドキ科,-,-,ツガルウニ属,Glyptocidaris,crenularis,ツガルウニ,-
+Arbacioida,アスナロウニ目,Phymosomina,ホンウニモドキ亜目,Stomopneustidae,クロウニ科,-,-,クロウニ属,Stomopneustes,variolaris ,クロウニ,-
+Echinoida,ホンウニ目,Temnopleurina,サンショウウニ亜目,Temnopleuridae,サンショウウニ科,Temnopleurinae,サンショウウニ亜科,サンショウウニ属,Temnopleurus,toreumaticus ,サンショウウニ,-
+Echinoida,ホンウニ目,Temnopleurina,サンショウウニ亜目,Temnopleuridae,サンショウウニ科,Temnopleurinae,サンショウウニ亜科,,Temnopleurus,hardwickii ,キタサンショウウニ,-
+Echinoida,ホンウニ目,Temnopleurina,サンショウウニ亜目,Temnopleuridae,サンショウウニ科,Temnopleurinae,サンショウウニ亜科,,Temnopleurus,reevesii ,ハリサンショウウニ,-
+Echinoida,ホンウニ目,Temnopleurina,サンショウウニ亜目,Temnopleuridae,サンショウウニ科,Temnopleurinae,サンショウウニ亜科,,Temnopleurus,apodus ,シロツブサンショウウニ,新称
+Echinoida,ホンウニ目,Temnopleurina,サンショウウニ亜目,Temnopleuridae,サンショウウニ科,Temnopleurinae,サンショウウニ亜科,コデマリウニ属,Temnotrema,sculptum,コデマリウニ,新称
+Echinoida,ホンウニ目,Temnopleurina,サンショウウニ亜目,Temnopleuridae,サンショウウニ科,Temnopleurinae,サンショウウニ亜科,コオロギウニ属,Opechinus,variabilis ,コオロギウニ,新称
+Echinoida,ホンウニ目,Temnopleurina,サンショウウニ亜目,Temnopleuridae,サンショウウニ科,Temnopleurinae,サンショウウニ亜科,ヒオドシウニ属,Salmacis,bicolor,ヒオドシウニ,新称
+Echinoida,ホンウニ目,Temnopleurina,サンショウウニ亜目,Temnopleuridae,サンショウウニ科,Temnopleurinae,サンショウウニ亜科,ユキレンゲウニ属,Salmaciella,dussumieri ,ユキレンゲウニ,新称
+Echinoida,ホンウニ目,Temnopleurina,サンショウウニ亜目,Temnopleuridae,サンショウウニ科,Temnopleurinae,サンショウウニ亜科,ケマリウニ属,Microcyphus,olivaceus ,ケマリウニ,新称
+Echinoida,ホンウニ目,Temnopleurina,サンショウウニ亜目,Temnopleuridae,サンショウウニ科,Temnopleurinae,サンショウウニ亜科,コシダカウニ属,Mespilia,globulus ,コシダカウニ,-
+Echinoida,ホンウニ目,Temnopleurina,サンショウウニ亜目,Temnopleuridae,サンショウウニ科,Trigonocidarinae,名称未定,-,Prionechinus,forbesianus,-,和名未定
+Echinoida,ホンウニ目,Temnopleurina,サンショウウニ亜目,Temnopleuridae,サンショウウニ科,Trigonocidarinae,名称未定,-,Lamprechinus,sculptus ,-,和名未定
+Echinoida,ホンウニ目,Temnopleurina,サンショウウニ亜目,Toxopneustidae,ラッパウニ科,-,-,-,Nudechinus,multicolor,-,和名未定
+Echinoida,ホンウニ目,Temnopleurina,サンショウウニ亜目,Toxopneustidae,ラッパウニ科,-,-,ラッパウニ属,Toxopneustes,pileolus ,ラッパウニ,-
+Echinoida,ホンウニ目,Temnopleurina,サンショウウニ亜目,Toxopneustidae,ラッパウニ科,-,-,ラッパウニ属,Toxopneustes,elegans,クロスジラッパウニ,-
+Echinoida,ホンウニ目,Temnopleurina,サンショウウニ亜目,Toxopneustidae,ラッパウニ科,-,-,シラヒゲウニ属,Tripneustes,gratilla ,シラヒゲウニ,-
+Echinoida,ホンウニ目,Temnopleurina,サンショウウニ亜目,Toxopneustidae,ラッパウニ科,-,-,マダラウニ属,Pseudoboletia,indiana ,マダラウニ,-
+Echinoida,ホンウニ目,Echinina,ホンウニ亜目,Echinidae,ホンウニ科,Echininae,ホンウニ亜科,ホンウニ属,Echinus,lucidus ,シロウニ,重井
+Echinoida,ホンウニ目,Echinina,ホンウニ亜目,Strongylocentrotidae,オオバフンウニ科,-,-,オオバフンウニ属,Strongylocentrotus,polyacanthus,-,和名未定
+Echinoida,ホンウニ目,Echinina,ホンウニ亜目,Strongylocentrotidae,オオバフンウニ科,-,-,,Strongylocentrotus,sachalinicus,-,和名未定
+Echinoida,ホンウニ目,Echinina,ホンウニ亜目,Strongylocentrotidae,オオバフンウニ科,-,-,,Strongylocentrotus,intermedius ,エゾバフンウニ,-
+Echinoida,ホンウニ目,Echinina,ホンウニ亜目,Strongylocentrotidae,オオバフンウニ科,-,-,,Strongylocentrotus,nudus ,キタムラサキウニ,-
+Echinoida,ホンウニ目,Echinina,ホンウニ亜目,Strongylocentrotidae,オオバフンウニ科,-,-,バフンウニ属,Hemicentrotus,pulcherrimus ,バフンウニ,-
+Echinoida,ホンウニ目,Echinina,ホンウニ亜目,Strongylocentrotidae,オオバフンウニ科,-,-,アカウニ属,Pseudocentrotus,depressus ,アカウニ,-
+Echinoida,ホンウニ目,Echinina,ホンウニ亜目,Parasaleniidae,ナガウニモドキ科,-,-,ナガウニモドキ属,Parasalenia,gratiosa,ナガウニモドキ,-
+Echinoida,ホンウニ目,Echinina,ホンウニ亜目,Echinometridae,ナガウニ科,-,-,タワシウニ属,Echinostrephus,molaris ,ミナミタワシウニ,重井
+Echinoida,ホンウニ目,Echinina,ホンウニ亜目,Echinometridae,ナガウニ科,-,-,タワシウニ属,Echinostrephus,aciculatus,タワシウニ,-
+Echinoida,ホンウニ目,Echinina,ホンウニ亜目,Echinometridae,ナガウニ科,-,-,ムラサキウニ属,Anthocidaris,crassispina ,ムラサキウニ,-
+Echinoida,ホンウニ目,Echinina,ホンウニ亜目,Echinometridae,ナガウニ科,-,-,ナガウニ属,Echinometra,mathaei ,ナガウニ,-
+Echinoida,ホンウニ目,Echinina,ホンウニ亜目,Echinometridae,ナガウニ科,-,-,パイプウニ属,Heterocentrotus,mamillatus ,パイプウニ,-
+Echinoida,ホンウニ目,Echinina,ホンウニ亜目,Echinometridae,ナガウニ科,-,-,ジンガサウニ属,Colobocentrotus,mertensii,ジンガサウニ,-
+Holectypoida,タマゴウニ目,Echinoneina,タマゴウニ亜目,Echinoneidae,タマゴウニ科,-,-,タマゴウニ属,Echinoneus,cyclostomus,タマゴウニ,-
+Holectypoida,タマゴウニ目,Echinoneina,タマゴウニ亜目,Echinoneidae,タマゴウニ科,-,-,-,Micropetalon,sp.,-,
+Clypeasteroida,タコノマクラ目,Clypeasterina,タコノマクラ亜目,Clypeasteridae,タコノマクラ科,-,-,タコノマクラ属,Clypeaster,telurus,-,-
+Clypeasteroida,タコノマクラ目,Clypeasterina,タコノマクラ亜目,Clypeasteridae,タコノマクラ科,-,-,タコノマクラ属,Clypeaster,oshimensis,ユメマクラ,-
+Clypeasteroida,タコノマクラ目,Clypeasterina,タコノマクラ亜目,Clypeasteridae,タコノマクラ科,-,-,タコノマクラ属,Clypeaster,japonicus,タコノマクラ,-
+Clypeasteroida,タコノマクラ目,Clypeasterina,タコノマクラ亜目,Clypeasteridae,タコノマクラ科,-,-,タコノマクラ属,Clypeaster,fervens,-,和名未定
+Clypeasteroida,タコノマクラ目,Clypeasterina,タコノマクラ亜目,Clypeasteridae,タコノマクラ科,-,-,タコノマクラ属,Clypeaster,virescens,ヤマタカタコノマクラ,新称
+Clypeasteroida,タコノマクラ目,Clypeasterina,タコノマクラ亜目,Clypeasteridae,タコノマクラ科,-,-,タコノマクラ属,Clypeaster,reticulatus ,ヒメタコノマクラ,新称
+Clypeasteroida,タコノマクラ目,Laganina,カシパン亜目,Fibulariidae,マメウニ科,-,-,ボタンウニ属,Echinocyamus,crispus,ボタンウニ,-
+Clypeasteroida,タコノマクラ目,Laganina,カシパン亜目,Fibulariidae,マメウニ科,-,-,ボタンウニ属,Echinocyamus,provectus,-,和名未定
+Clypeasteroida,タコノマクラ目,Laganina,カシパン亜目,Fibulariidae,マメウニ科,-,-,ボタンウニ属,Echinocyamus,subconicus,-,和名未定
+Clypeasteroida,タコノマクラ目,Laganina,カシパン亜目,Fibulariidae,マメウニ科,-,-,マメウニ属,Fibularia,ovulum,マルマメウニ,新称
+Clypeasteroida,タコノマクラ目,Laganina,カシパン亜目,Fibulariidae,マメウニ科,-,-,マメウニ属,Fibularia,cribellum,-,和名未定
+Clypeasteroida,タコノマクラ目,Laganina,カシパン亜目,Fibulariidae,マメウニ科,-,-,マメウニ属,Fibularia,japonica,ニホンマメウニ,新称
+Clypeasteroida,タコノマクラ目,Laganina,カシパン亜目,Fibulariidae,マメウニ科,-,-,マメウニ属,Fibularia,sp.,-,-
+Clypeasteroida,タコノマクラ目,Laganina,カシパン亜目,Fibulariidae,マメウニ科,-,-,コメツブウニ属,Fibulariella,acuta ,コメツブウニ,-
+Clypeasteroida,タコノマクラ目,Laganina,カシパン亜目,Laganidae,カシパン科,-,-,カシパン属,Laganum,depressum ,-,和名未定
+Clypeasteroida,タコノマクラ目,Laganina,カシパン亜目,Laganidae,カシパン科,-,-,カシパン属,Laganum,fudsiyama,フジヤマカシパン,-
+Clypeasteroida,タコノマクラ目,Laganina,カシパン亜目,Laganidae,カシパン科,-,-,ヨツアナカシパン属,Peronella,japonica,ヨツアナカシパン,-
+Clypeasteroida,タコノマクラ目,Laganina,カシパン亜目,Laganidae,カシパン科,-,-,ヨツアナカシパン属,Peronella,lesueuri ,ミナミヨツアナカシパン,新称
+Clypeasteroida,タコノマクラ目,Laganina,カシパン亜目,Laganidae,カシパン科,-,-,ヨツアナカシパン属,Peronella,rubra,ヨツアナカシパンモドキ,重井
+Clypeasteroida,タコノマクラ目,Laganina,カシパン亜目,Laganidae,カシパン科,-,-,ヨツアナカシパン属,Peronella,pellucida,ウスヨツアナカシパン,-
+Clypeasteroida,タコノマクラ目,Laganina,カシパン亜目,Laganidae,カシパン科,-,-,ヨツアナカシパン属,Peronella,minuta ,マメヨツアナカシパン,-
+Clypeasteroida,タコノマクラ目,Laganina,カシパン亜目,Scutellidae,ヨウミャクカシパン科,-,-,ハスノハカシパン属,Scaphechinus,mirabilis,ハスノハカシパン,-
+Clypeasteroida,タコノマクラ目,Laganina,カシパン亜目,Scutellidae,ヨウミャクカシパン科,-,-,ハスノハカシパン属,Scaphechinus,griseus,ハイイロハスノハカシパン,-
+Clypeasteroida,タコノマクラ目,Laganina,カシパン亜目,Scutellidae,ヨウミャクカシパン科,-,-,ホクヨウハスノハカシパン属,Echinarachnius,parma ,ホクヨウハスノハカシパン,重井
+Clypeasteroida,タコノマクラ目,Laganina,カシパン亜目,Astriclypeidae,スカシカシパン科,-,-,フタツアナスカシカシパン属,Echinodiscus,tenuissimus ,フタツアナスカシカシパン,重井
+Clypeasteroida,タコノマクラ目,Laganina,カシパン亜目,Astriclypeidae,スカシカシパン科,-,-,スカシカシパン属,Astriclypeus,manni,スカシカシパン,-
+Cassiduloida,マンジュウウニ目,Cassidulina,マンジュウウニ亜目,Echinolampadidae,マンジュウウニ科,-,-,マンジュウウニ属,Echinolampas,koreana,チョウセンマンジュウウニ,新称
+Cassiduloida,マンジュウウニ目,Cassidulina,マンジュウウニ亜目,Echinolampadidae,マンジュウウニ科,-,-,マンジュウウニ属,Echinolampas,sternopetala,マンジュウウニ,-
+Cassiduloida,マンジュウウニ目,Cassidulina,マンジュウウニ亜目,Pliolampadidae,ミナミマンジュウウニ科,-,-,マメマンジュウウニ属,Oligopodia,epigonus ,マメマンジュウウニ,新称
+Spatangoida,ブンブク目,Urechinina,ブンブクモドキ亜目,Holasteridae,ニセブンブク科,-,-,イシブンブク属,Stereopneustes,relictus,イシブンブク,新称
+Spatangoida,ブンブク目,Urechinina,ブンブクモドキ亜目,Urechinidae,ブンブクモドキ科,-,-,ブンブクモドキ属,Urechinus,naresianus,-,和名未定
+Spatangoida,ブンブク目,Urechinina,ブンブクモドキ亜目,Urechinidae,ブンブクモドキ科,-,-,ブンブクモドキ属,Urechinus,loveni,ブンブクモドキ,重井
+Spatangoida,ブンブク目,Urechinina,ブンブクモドキ亜目,Pourtalesiidae,トックリブンブク科,-,-,トックリブンブク属,Pourtalesia,laguncula,トックリブンブク,-
+Spatangoida,ブンブク目,Urechinina,ブンブクモドキ亜目,Pourtalesiidae,トックリブンブク科,-,-,-,Echinocrepis,rostrata,-,和名未定
+Spatangoida,ブンブク目,Urechinina,ブンブクモドキ亜目,Pourtalesiidae,トックリブンブク科,-,-,ヒョウタンブンブク属,Ceratophysa,ceratopyga,ヒョウタンブンブク,重井
+Spatangoida,ブンブク目,Spatangina,ブンブク亜目,Palaeopneustidae,ヘンゲブンブク科,-,-,ウルトラブンブク属,Linopneustes,murrayi,ウルトラブンブク,重井
+Spatangoida,ブンブク目,Spatangina,ブンブク亜目,Palaeopneustidae,ヘンゲブンブク科,-,-,-,Elipneustes,denudatus,-,和名未定
+Spatangoida,ブンブク目,Spatangina,ブンブク亜目,Palaeopneustidae,ヘンゲブンブク科,-,-,アルゴーブンブク属,Argopatagus,vitreus,アルゴーブンブク,新称
+Spatangoida,ブンブク目,Spatangina,ブンブク亜目,Palaeopneustidae,ヘンゲブンブク科,-,-,アルゴーブンブク属,Argopatagus,planus,-,和名未定
+Spatangoida,ブンブク目,Spatangina,ブンブク亜目,Palaeopneustidae,ヘンゲブンブク科,-,-,ウリザネブンブク属,Platybrissus,roemeri,ウリザネブンブク,新称
+Spatangoida,ブンブク目,Spatangina,ブンブク亜目,Palaeopneustidae,ヘンゲブンブク科,-,-,オタフクブンブク属,Palaeotrema,loveni,オタフクブンブク,新称
+Spatangoida,ブンブク目,Spatangina,ブンブク亜目,Hemiasteridae,コダヌキブンブク科,-,-,コダヌキブンブク属,Holanthus,expergitus,コダヌキブンブク,新称
+Spatangoida,ブンブク目,Spatangina,ブンブク亜目,Palaeostomatidae,イツクチブンブク科,-,-,イツクチブンブク属,Palaeostoma,mirabile,イツクチブンブク,重井
+Spatangoida,ブンブク目,Spatangina,ブンブク亜目,Aeropsidae,ユメブンブク科,-,-,-,Aceste,ovata,-,和名未定
+Spatangoida,ブンブク目,Spatangina,ブンブク亜目,Pericosmidae,アナグマブンブク科,-,-,アナグマブンブク属,Pericosmus,cordatus,アナグマブンブク,新称
+Spatangoida,ブンブク目,Spatangina,ブンブク亜目,Schizasteridae,ブンブクチャガマ科,-,-,チュウカチャガマ属,Faorina,chinensis,チュウカチャガマ,新称
+Spatangoida,ブンブク目,Spatangina,ブンブク亜目,Schizasteridae,ブンブクチャガマ科,-,-,キツネブンブク属,Brisaster,latifrons,キツネブンブク,新称
+Spatangoida,ブンブク目,Spatangina,ブンブク亜目,Schizasteridae,ブンブクチャガマ科,-,-,-,Paraster,sp.,-,-
+Spatangoida,ブンブク目,Spatangina,ブンブク亜目,Schizasteridae,ブンブクチャガマ科,-,-,ブンブクチャガマ属,Schizaster,lacunosus,ブンブクチャガマ,-
+Spatangoida,ブンブク目,Spatangina,ブンブク亜目,Schizasteridae,ブンブクチャガマ科,-,-,セイタカブンブク属,Moira,lachesinella,セイタカブンブク,-
+Spatangoida,ブンブク目,Spatangina,ブンブク亜目,Spatangidae,ホンブンブク科,-,-,ホンブンブク属,Spatangus,luetkeni,ホンブンブク,新称
+Spatangoida,ブンブク目,Spatangina,ブンブク亜目,Spatangidae,ホンブンブク科,-,-,オニヒメブンブク属,Maretia,planulata,オニヒメブンブク,新称
+Spatangoida,ブンブク目,Spatangina,ブンブク亜目,Spatangidae,ホンブンブク科,-,-,ネズミブンブク属,Pseudomaretia,alta,ネズミブンブク,新称
+Spatangoida,ブンブク目,Spatangina,ブンブク亜目,Loveniidae,ヒラタブンブク科,Loveniinae,ヒラタブンブク亜科,ヒラタブンブク属,Lovenia,elongata,ヒラタブンブク,-
+Spatangoida,ブンブク目,Spatangina,ブンブク亜目,Loveniidae,ヒラタブンブク科,Loveniinae,ヒラタブンブク亜科,ヒラタブンブク属,Lovenia,gregalis,ワダツミヒラタブンブク,新称
+Spatangoida,ブンブク目,Spatangina,ブンブク亜目,Loveniidae,ヒラタブンブク科,Loveniinae,ヒラタブンブク亜科,ヒラタブンブク属,Lovenia,lata,ヤマトヒラタブンブク,新称
+Spatangoida,ブンブク目,Spatangina,ブンブク亜目,Loveniidae,ヒラタブンブク科,Loveniinae,ヒラタブンブク亜科,ヒラタブンブク属,Lovenia,triforis,ミツアナヒラタブンブク,新称
+Spatangoida,ブンブク目,Spatangina,ブンブク亜目,Loveniidae,ヒラタブンブク科,Loveniinae,ヒラタブンブク亜科,-,Breynia,elegans,-,和名未定
+Spatangoida,ブンブク目,Spatangina,ブンブク亜目,Loveniidae,ヒラタブンブク科,Loveniinae,ヒラタブンブク亜科,-,Homolampas,lovenioides,-,和名未定
+Spatangoida,ブンブク目,Spatangina,ブンブク亜目,Loveniidae,ヒラタブンブク科,Echinocardiinae,オカメブンブク亜科,オカメブンブク属,Echinocardium,cordatum,オカメブンブク,-
+Spatangoida,ブンブク目,Spatangina,ブンブク亜目,Loveniidae,ヒラタブンブク科,Echinocardiinae,オカメブンブク亜科,オカメブンブク属,Echinocardium,lymani,オキノオカメブンブク,新称
+Spatangoida,ブンブク目,Spatangina,ブンブク亜目,Brissidae,オオブンブク科,-,-,ヤマアラシブンブク属,Gymnopatagus,magnus,ヤマアラシブンブク,新称
+Spatangoida,ブンブク目,Spatangina,ブンブク亜目,Brissidae,オオブンブク科,-,-,コザルブンブク属,Eupatagus,micropetalus,コザルブンブク,新称
+Spatangoida,ブンブク目,Spatangina,ブンブク亜目,Brissidae,オオブンブク科,-,-,オキナブンブク属,Brissopatagus,relictus,オキナブンブク,新称
+Spatangoida,ブンブク目,Spatangina,ブンブク亜目,Brissidae,オオブンブク科,-,-,タヌキブンブク属,Brissopsis,luzonica,タヌキブンブク,重井
+Spatangoida,ブンブク目,Spatangina,ブンブク亜目,Brissidae,オオブンブク科,-,-,オオブンブク属,Brissus,agassizii,オオブンブク,-
+Spatangoida,ブンブク目,Spatangina,ブンブク亜目,Brissidae,オオブンブク科,-,-,オオブンブク属,Brissus,latecarinatus,ミナミオオブンブク,重井
+Spatangoida,ブンブク目,Spatangina,ブンブク亜目,Brissidae,オオブンブク科,-,-,ライオンブンブク属,Metalia,spatagus,ライオネスブンブク,新称
+Spatangoida,ブンブク目,Spatangina,ブンブク亜目,Brissidae,オオブンブク科,-,-,ライオンブンブク属,Metalia,sternalis,ライオンブンブク,新称
